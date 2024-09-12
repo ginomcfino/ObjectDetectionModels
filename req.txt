@@ -1,0 +1,15 @@
+# resnet50
+transformers
+datasets
+torch
+pillow
+timm
+matplotlib
+
+# maskrcnn
+mrcnn
+tensorflow
+keras
+opencv-python
+scipy
+scikit-image

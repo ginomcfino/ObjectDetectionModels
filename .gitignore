@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb~
+
+# Data files
+*.csv
+*.xlsx
+*.pkl
+
+# Model files
+*.h5
+*.pth
+*.ckpt
+runs/
+
+# Logs
+*.log
+
+# Virtual environment
+*env/
+
+# OS generated files
+Thumbs.db
+.DS_Store
