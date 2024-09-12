@@ -1,4 +1,3 @@
-# resnet50
 transformers
 datasets
 torch
@@ -6,10 +5,5 @@ pillow
 timm
 matplotlib
 
-# maskrcnn
-mrcnn
-tensorflow
-keras
-opencv-python
-scipy
-scikit-image
+# YOLO-specific
+git+https://github.com/THU-MIG/yolov10.git
